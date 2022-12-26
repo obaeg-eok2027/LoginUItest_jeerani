@@ -7,5 +7,22 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="114dp"
+            android:layout_height="126dp"
+            android:scaleType="center"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/happycat" />
+
+
+    </LinearLayout>
+
+"
+
 
 </LinearLayout>
